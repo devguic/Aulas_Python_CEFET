@@ -1,0 +1,1 @@
+print (" Bem-vindos ao", end = ""), print(" /Mundo\ ", end =""), print ( "da Linguagem", end = ""), print (' "Python"')
